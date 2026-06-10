@@ -1,8 +1,7 @@
-# A2 Image Recognition — Results
-
+# A2 Segmentation Assignment
 ---
 
-## A2-01: Object Detection — YOLOv3 & YOLOv4
+## A2-01: Object Detection — YOLOv4
 
 ### Commands Used
 
